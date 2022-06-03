@@ -1,0 +1,15 @@
+C:\Users\eliel\source\repos\FicticiaSA\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\eliel\source\repos\FicticiaSA\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\eliel\source\repos\FicticiaSA\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\eliel\source\repos\FicticiaSA\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\eliel\source\repos\FicticiaSA\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\eliel\source\repos\FicticiaSA\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\eliel\source\repos\FicticiaSA\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliel\source\repos\FicticiaSA\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\eliel\source\repos\FicticiaSA\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\eliel\source\repos\FicticiaSA\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\eliel\source\repos\FicticiaSA\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\eliel\source\repos\FicticiaSA\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\eliel\source\repos\FicticiaSA\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\eliel\source\repos\FicticiaSA\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\eliel\source\repos\FicticiaSA\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
